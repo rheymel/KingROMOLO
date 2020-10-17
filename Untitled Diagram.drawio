@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T14:07:59.462Z" agent="5.0 (Windows)" etag="KC8jJIajXbeodvvX9MUu" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-17T14:08:44.823Z" agent="5.0 (Windows)" etag="l15hXK5Pf0e0ZkSTwX1D" version="13.8.0" type="github">
   <diagram id="HCSsMY1fox_DIpHiyKUl" name="Page-1">
     <mxGraphModel dx="868" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -154,7 +154,7 @@
         <mxCell id="HNMy4ISQY_406ZQvRQbY-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=19;" parent="1" source="HNMy4ISQY_406ZQvRQbY-67" target="HNMy4ISQY_406ZQvRQbY-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HNMy4ISQY_406ZQvRQbY-67" value="Proceed Checout" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="HNMy4ISQY_406ZQvRQbY-67" value="Proceed Check out" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="351.38" y="-30.75" width="107" height="55" as="geometry" />
         </mxCell>
         <mxCell id="HNMy4ISQY_406ZQvRQbY-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=19;" parent="1" source="HNMy4ISQY_406ZQvRQbY-82" target="HNMy4ISQY_406ZQvRQbY-84" edge="1">
